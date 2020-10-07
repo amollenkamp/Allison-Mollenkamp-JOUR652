@@ -8,6 +8,7 @@ body{
   font-weight: 400;
 }
 
+/*container for entire resume*/
 #container{
   width:100%;
   max-width: 1200px;
@@ -27,10 +28,29 @@ body{
 }
 
 /*title*/
-strong{
+#title{
   color:#33485e;
   text-transform: uppercase;
   font-size: 1.5em;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-right:0;
+  margin-left: 0;
+}
+
+/*menu*/
+.menu{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/*contact info*/
+.contact{
+  display: inline;
+  list-style-type: none;
 }
 
 /*section headers*/
@@ -48,17 +68,44 @@ strong{
 }
 
 /*job titles*/
-h3{
+.jobtitle{
   font-weight: 600;
   font-size: 1.5em;
 }
 
 /*job organizations*/
-h4{
-  font-size: 1.5em;
+.organization{
+  font-size: 1.25em;
 }
 
 /*job dates*/
-h5{
+.date{
   font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.description{
+  margin-top: 10;
+  margin-bottom: 10;
+  margin-left: 0;
+  margin-right:0;
+}
+
+/*education info*/
+#degrees{
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/*skills*/
+#do{
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
 }
