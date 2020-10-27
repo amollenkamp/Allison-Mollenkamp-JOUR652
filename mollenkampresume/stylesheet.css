@@ -1,3 +1,8 @@
+.nav{
+    background-color: #763690;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .rounded-circle{
   background-color: #763690;
   color:#FFFFFF;
@@ -66,4 +71,8 @@ strong{
 .logo{
   margin-top: 1em;
   margin-bottom: 1em;
+}
+
+.footer{
+  color: #763690;
 }
