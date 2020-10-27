@@ -1,0 +1,63 @@
+.rounded-circle{
+  background-color: #763690;
+  color:#FFFFFF;
+  padding: 40px;
+  margin: 25px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border: none;
+  font-size: 1em;
+}
+
+.big-button{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+h1{
+  color: #763690;
+  font-size: 2em;
+  font-family: Georgia, serif;
+  margin-top: 20px;
+}
+
+h2{
+  color:#FFFFFF;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.75em;
+}
+
+p{
+  color: #FFFFFF;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 2px;
+}
+
+.info-box{
+  background-color: #763690;
+  width: 60%;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+li{
+  color: #FFFFFF;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.clips{
+  background-color: #763690;
+  padding: 5px;
+}
+
+.caption{
+  color: #763690;
+  text-align: center;
+}
+
+strong{
+  color: #763690;
+  text-align: center;
+}
