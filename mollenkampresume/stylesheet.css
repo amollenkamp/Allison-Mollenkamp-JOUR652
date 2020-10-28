@@ -30,29 +30,11 @@ header{
   font-variant: small-caps;
 }
 
-.fa-facebook-f{
-  position: relative;
-  z-index: 2;
-  bottom:12em;
-  left:29em;
-}
-
-.fa-twitter{
-  position: relative;
-  z-index: 2;
-  bottom:12em;
-  left:33em;
-}
-
-.fa-linkedin-in{
-  position: relative;
-  z-index: 2;
-  bottom:12em;
-  left:37em;
-}
-
 .fab{
-color: #FFFFFF;
+  color: #FFFFFF;
+  position: relative;
+  z-index: 2;
+  bottom:12em;
 }
 
 .rounded-circle{
