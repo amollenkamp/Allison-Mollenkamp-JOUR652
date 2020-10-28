@@ -8,25 +8,47 @@ header{
   z-index: 1;
 }
 
+#name{
+  font-size: 3em;
+  font-family: Georgia, serif;
+  color: #FFFFFF;
+  position: relative;
+  z-index: 2;
+  bottom: 5em;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+#title{
+  font-size: 1.5em;
+  font-family: Georgia, serif;
+  color: #FFFFFF;
+  position: relative;
+  z-index: 2;
+  bottom: 10em;
+  text-align: center;
+  font-variant: small-caps;
+}
+
 .fa-facebook-f{
   position: relative;
   z-index: 2;
-  bottom:4em;
-  left:28em;
+  bottom:12em;
+  left:29em;
 }
 
 .fa-twitter{
   position: relative;
   z-index: 2;
-  bottom:5.5em;
-  left:32em;
+  bottom:12em;
+  left:33em;
 }
 
 .fa-linkedin-in{
   position: relative;
   z-index: 2;
-  bottom:5.5em;
-  left:36em;
+  bottom:12em;
+  left:37em;
 }
 
 .fab{
