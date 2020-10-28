@@ -85,17 +85,18 @@ li{
 
 .clips{
   background-color: #763690;
-  padding: 5px;
+  padding: 5px
 }
 
 .caption{
   color: #763690;
-  text-align: center;
+  padding-left:1em;
 }
 
 strong{
   color: #763690;
   text-align: center;
+  padding-left:1em;
 }
 
 .logo{
@@ -103,6 +104,8 @@ strong{
   margin-bottom: 1em;
 }
 
-.footer{
+footer{
   color: #763690;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
 }
