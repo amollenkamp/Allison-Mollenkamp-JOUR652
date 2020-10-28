@@ -112,10 +112,8 @@ footer{
 }
 
 
-@media screen and (max-width: 900px) {
- .infobox{
-   width: 80%;
-   background-color: green;
- }
-
+@include media-breakpoint-up(sm) {
+  .infobox {
+    background-color: green;
+  }
 }
