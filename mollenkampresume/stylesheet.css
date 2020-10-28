@@ -28,8 +28,7 @@ header{
 
 .fab{
   color: #FFFFFF;
-  display: contents;
-  position: absolute;
+  display: block;
 }
 
 .rounded-circle{
