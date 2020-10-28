@@ -30,6 +30,7 @@ header{
 .fab{
   color: #FFFFFF;
   display: block;
+  padding-bottom: 1em;
 }
 
 .rounded-circle{
