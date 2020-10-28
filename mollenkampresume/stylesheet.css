@@ -6,15 +6,15 @@
 header{
   position: relative;
   z-index: 1;
+  height: 50vh;
+  background: url(images/notextheader.jpg);
+  background-size: cover;
 }
 
 #name{
   font-size: 3em;
   font-family: Georgia, serif;
   color: #FFFFFF;
-  position: relative;
-  z-index: 2;
-  bottom: 5em;
   text-align: center;
   font-variant: small-caps;
 }
