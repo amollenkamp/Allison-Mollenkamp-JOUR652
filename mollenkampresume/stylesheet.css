@@ -112,8 +112,8 @@ footer{
 }
 
 
-@include media-breakpoint-up(md) {
-  .infobox {
+@media (max-width: 767.98px) {
+  .infoblock{
     background-color: green;
   }
 }
