@@ -4,11 +4,10 @@
 }
 
 header{
-  position: relative;
-  z-index: 1;
   height: 50vh;
   background: url(images/notextheader.jpg);
   background-size: cover;
+  padding: 2em;
 }
 
 #name{
@@ -23,18 +22,12 @@ header{
   font-size: 1.5em;
   font-family: Georgia, serif;
   color: #FFFFFF;
-  position: relative;
-  z-index: 2;
-  bottom: 10em;
   text-align: center;
   font-variant: small-caps;
 }
 
 .fab{
   color: #FFFFFF;
-  position: relative;
-  z-index: 2;
-  bottom:12em;
 }
 
 .rounded-circle{
