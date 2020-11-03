@@ -1,0 +1,12 @@
+.headline{
+  font-family: Georgia, serif;
+  font-size: 2em;
+  text-align: center;
+  font-weight: 700;
+}
+
+.byline{
+  font-family: helvetica, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
