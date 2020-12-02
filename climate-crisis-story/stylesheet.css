@@ -1,0 +1,47 @@
+
+.jumbotron{
+  background: url(images/amazing-grace-garden.jpg);
+  width:100%;
+  height: 800px;
+  font-size: 3em;
+  font-family: georgia, serif;
+}
+
+.head{
+  font-size: 2em;
+  font-family: georgia, serif;
+}
+
+.byline{
+    font-size: .75em;
+    font-style: italic;
+}
+
+.rightpic{
+  float:right;
+  padding-left: 15px;
+  width: 50%;
+}
+
+.leftpic{
+  float:left;
+  padding-right: 10px;
+  width:50%;
+  }
+
+.subhead{
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: helvetica, sans-serif;
+}
+
+p{
+  font-size: 1em;
+  font-family: helvetica, sans-serif;
+}
+
+.caption{
+  font-size: .75em;
+  font-style: italic;
+  font-family: georgia, serif;
+}
