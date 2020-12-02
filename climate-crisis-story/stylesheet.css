@@ -7,11 +7,23 @@
   font-family: Castoro, serif;
 }
 
+footer{
+  background-color: grey;
+  color: white;
+}
+
 .head{
   font-size: 2em;
   font-family: castoro, serif;
 }
 
+.display-4{
+  background-color: grey;
+}
+.lead{
+  color:white;
+  background-color: grey;
+}
 .byline{
     font-size: .75em;
     font-style: italic;
@@ -25,7 +37,7 @@
 
 .leftpic{
   float:left;
-  padding-right: 10px;
+  padding-right: 15px;
   width:50%;
   }
 
@@ -64,6 +76,12 @@ p{
   border-style: solid;
 }
 
+@media only screen and (max-width: 800px) {
+  .sidebar {
+    width: 100%;
+  }
+}
+
 li{
   font-size: 1em;
   font-family: helvetica, sans-serif;
@@ -75,7 +93,8 @@ a:link{
 }
 
 a:visited{
-  color:
+  color:black;
+  text-decoration: underline;
 }
 
 a:hover{
