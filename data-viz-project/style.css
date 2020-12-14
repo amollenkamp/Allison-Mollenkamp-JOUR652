@@ -62,27 +62,14 @@ header{
   margin-left: 10px;
   height: 11em;
 }
-/*
-@media only screen and (min-width: 900px) {
-  .headshot {
-    height: 250px;
+
+@media only screen and (max-width: 540px){
+  .headshot{
+    height: 8em;
   }
 }
 
-@media only screen and (max-width: 900px) {
-  .headshot {
-    width: 100%;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .headshot {
-    width: 50%;
-  }
-}
-*/
-
-@media only screen and (min-width: 800px){
+@media only screen and (min-width: 720px){
   .text{
     width: 80%;
   }
@@ -152,6 +139,12 @@ p{
   margin-top: 10px;
   margin-bottom: 10px;
   font-style: italic;
+}
+
+@media only screen and (max-width: 540px){
+  .pullquote{
+    width: 98%;
+  }
 }
 
 footer{
