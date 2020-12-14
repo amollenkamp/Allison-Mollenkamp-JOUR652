@@ -41,7 +41,7 @@ header{
 
 @media only screen and (max-width: 540px){
   #subhead{
-    font-size: 2em;
+    font-size: em;
   }
 }
 
@@ -52,6 +52,12 @@ header{
   line-height: 1em;
 }
 
+@media only screen and (max-width: 540px){
+  #byline{
+    font-size: 1.5em;
+  }
+}
+
 #date{
   font-family: "pinyon script", script;
   font-size:2em;
@@ -60,7 +66,7 @@ header{
 }
 
 @media only screen and (max-width: 540px){
-  #byline #date{
+  #date{
     font-size: 1.5em;
   }
 }
